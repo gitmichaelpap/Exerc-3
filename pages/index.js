@@ -22,10 +22,10 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>Arquitetura de Front End - Professor Samuel Martins</p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          PÓS PUC Minas:{'  '}
+          <a href="https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/Arquitetura-de-Software-Distribuido-Pra%C3%A7a%20da%20Liberdade_5.aspx?moda=5&polo=7&area=79&curso=128&situ=1">Arquitetura de Software Distribuído</a>
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
